@@ -1,0 +1,7 @@
+Attribute,Type,PosNeg
+A1_Destination,Categorical,
+A2_Cruise.Line,Categorical,
+# of Days,Categorical,
+A4_Stateroom,Categorical,
+A5 Ship Amenities (Age),Ordinal,1
+A6 Price (Per Person/Day),Ordinal,-1
